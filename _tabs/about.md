@@ -57,7 +57,7 @@ See my skills:
 [Mysql](#/tags/mysql){:class="badge badge-primary"},
 [PostgreSQL](#/tags/postgresql){:class="badge badge-primary"},
 [Django](#/tags/django){:class="badge badge-success"},
-[PHP](#/tags/php){:class="badge badge-warning"},
+[PHP](#/tags/php){:class="badge badge-warning"}
 
 ***
 
