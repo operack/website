@@ -58,8 +58,6 @@ See my skills:
 [PostgreSQL](#/tags/postgresql){:class="badge badge-primary"},
 [Django](#/tags/django){:class="badge badge-success"},
 [PHP](#/tags/php){:class="badge badge-warning"},
-[Other](#/tags/other){:class="badge badge-default"},
-[Other](#/tags/other){:class="badge badge-default"}
 
 ***
 
