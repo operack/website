@@ -1,5 +1,5 @@
 ---
-title: Why do you see this page
+title: Why do you see this page?
 author: mdomocos
 date: 2023-01-10 21:56:00 +0200
 categories: [Blogging]
@@ -8,7 +8,7 @@ math: true
 mermaid: true
 ---
 
-Because I needed a notebook to store my copy/paste stuff.
+Because I needed a notebook to store my copy-paste stuff.
 
 Like this one:
 ```shell
@@ -26,7 +26,7 @@ Configuration file: /home/mihai/operack/_config.yml
             Source: /home/mihai/operack
        Destination: /home/mihai/operack/_site
  Incremental build: disabled. Enable with --incremental
-      Generating... 
+      Generating...
                     done in 0.21 seconds.
  Auto-regeneration: enabled for '/home/mihai/operack'
     Server address: http://127.0.0.1:4000/
