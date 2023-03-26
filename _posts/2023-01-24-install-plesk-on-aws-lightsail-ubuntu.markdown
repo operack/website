@@ -4,8 +4,8 @@ author: mdomocos
 date: 2023-01-24 16:15:00 +0200
 categories: [Blogging]
 tags: [aws, ubuntu, linux, lightsail, plesk]
-math: true
-mermaid: true
+math: false
+mermaid: false
 ---
 
 Since AWS is not providing us with and updated Ubuntu image (currently Ubuntu 22.04.1),

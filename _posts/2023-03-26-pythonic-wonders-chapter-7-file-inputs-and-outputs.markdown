@@ -4,8 +4,8 @@ author: mdomocos
 date: 2023-03-26 09:07:00 +0200
 categories: [Courses, Python]
 tags: [operack, python, course]
-math: true
-mermaid: true
+math: false
+mermaid: false
 ---
 ### Intro
 Files are a common way to store data in computer systems, and Python provides a powerful set of tools for working with files. We'll learn how to read from and write to files, handle errors and exceptions, and work with different file formats. Whether you're working with text files, binary files, or CSV files, this chapter will give you the skills you need to manipulate them in Python.

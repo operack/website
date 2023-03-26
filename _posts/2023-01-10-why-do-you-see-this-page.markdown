@@ -4,8 +4,8 @@ author: mdomocos
 date: 2023-01-10 21:56:00 +0200
 categories: [Blogging]
 tags: [operack, jekyll, ruby, rubygems, markdown]
-math: true
-mermaid: true
+math: false
+mermaid: false
 ---
 
 Because I needed a notebook to store my copy-paste stuff.

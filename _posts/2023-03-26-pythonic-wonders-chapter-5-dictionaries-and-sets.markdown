@@ -4,8 +4,8 @@ author: mdomocos
 date: 2023-03-26 09:05:00 +0200
 categories: [Courses, Python]
 tags: [operack, python, course]
-math: true
-mermaid: true
+math: false
+mermaid: false
 ---
 ### Intro
 Dictionaries are used to store key-value pairs, allowing for efficient lookup of values based on their associated keys. Sets, on the other hand, are collections of unique and unordered elements that can be used for various purposes such as membership testing, removing duplicates, and mathematical operations.

@@ -4,8 +4,8 @@ author: mdomocos
 date: 2023-03-26 09:08:00 +0200
 categories: [Courses, Python]
 tags: [operack, python, course]
-math: true
-mermaid: true
+math: false
+mermaid: false
 ---
 ## Intro
 Object-oriented programming (OOP) is a programming paradigm that uses objects to represent and manipulate data. In Python, everything is an object. Understanding OOP is important for writing complex programs and creating reusable code. This chapter will cover the following topics:

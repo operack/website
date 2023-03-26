@@ -4,8 +4,8 @@ author: mdomocos
 date: 2023-03-26 09:00:01 +0200
 categories: [Courses, Python]
 tags: [operack, python, course]
-math: true
-mermaid: true
+math: false
+mermaid: false
 ---
 ### Intro
 

@@ -4,8 +4,8 @@ author: mdomocos
 date: 2023-03-26 09:09:00 +0200
 categories: [Courses, Python]
 tags: [operack, python, course]
-math: true
-mermaid: true
+math: false
+mermaid: false
 ---
 ## Intro
 Debugging and testing are crucial parts of software development. Debugging is the process of finding and fixing errors, while testing is the process of verifying that the program meets the requirements and works as expected. In this chapter, we will cover some of the common techniques and tools used for debugging and testing in Python.
