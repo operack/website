@@ -93,20 +93,17 @@
   <link rel="preload" href="{{ site.data.assets[origin].bootstrap.css | relative_url}}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="">
   <link rel="preload" href="{{ site.data.assets[origin].fontawesome.css | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 
-  <link rel="stylesheet" href="">
-  <link rel="preload" href="{{ '/assets/css/style.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
   {% if site.toc and page.toc %}
-    <link rel="stylesheet" href="">
-  <link rel="preload" href="{{ site.data.assets[origin].bootstrap-toc.css | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="stylesheet" href="{{ site.data.assets[origin].bootstrap-toc.css | relative_url }}">
   {% endif %}
 
   {% if page.layout == 'page' or page.layout == 'post' %}
     <!-- Manific Popup -->
-  <link rel="preload" href="{{ site.data.assets[origin].magnific-popup.css | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="stylesheet" href="{{ site.data.assets[origin].magnific-popup.css | relative_url }}">
   {% endif %}
 
   <!-- JavaScript -->
