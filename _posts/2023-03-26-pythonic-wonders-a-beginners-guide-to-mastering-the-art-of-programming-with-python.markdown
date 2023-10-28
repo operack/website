@@ -6,7 +6,7 @@ categories: [Courses, Python]
 tags: [operack, python, course]
 math: false
 mermaid: false
-pin: true
+pin: false
 ---
 
 As a programmer who has worked with Python for many years, I have seen how powerful and versatile this language can be. However, I also understand that for beginners, learning a new programming language can be daunting. That's why I created this course - to provide a comprehensive and beginner-friendly introduction to Python.
