@@ -1,4 +1,3 @@
-
 ---
 title: "Setting Up GitLab CI/CD for Your Project"
 author: mdomocos
