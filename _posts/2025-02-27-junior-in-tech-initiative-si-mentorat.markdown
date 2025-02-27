@@ -38,25 +38,13 @@ Această **lipsă de inițiativă și gândire individuală** contrariează scop
 ## Cauzele fenomenului
 
 Există mai multe motive posibile care explică **de ce un junior rămâne pasiv**, chiar și atunci când are parte de mentoring. Printre cauzele frecvente se numără:
-
-  
-
-
--  **Frica de greșeli și de eșec** – Mulți juniori trăiesc cu teama constantă de a nu strica ceva sau de a nu dezamăgi așteptările. Din dorința de a evita greșelile, aleg să nu riște deloc, așteptând mereu confirmare de la un senior. Această **aversiune față de risc** poate părea prudentă, dar în exces devine paralizantă. Paradoxal, frica de eșec poate dăuna progresului mai mult decât eșecurile în sine – “teama de eșec ne distruge visele mult mai des decât o fac lucrurile imperfecte” ([Junior Developers Focus on Wrong Things, And It Hurts Their Growth | SquarePlanet](https://hype4.academy/articles/coding/junior-developers-focus-on-wrong-things-and-it-hurts-their-growth#:~:text=before%20you%27re%20ready,let%20others%20worry%20about%20perfection)). Cu alte cuvinte, ezitarea excesivă este un **killer** al creșterii profesionale, deoarece blochează învățarea prin experimentare.
-
-  
-
+-  **Frica de greșeli și de eșec** – Mulți juniori trăiesc cu teama constantă de a nu strica ceva sau de a nu dezamăgi așteptările. Din dorința de a evita greșelile, aleg să nu riște deloc, așteptând mereu confirmare de la un senior. Această **aversiune față de risc** poate părea prudentă, dar în exces devine paralizantă. Paradoxal, frica de eșec poate dăuna progresului mai mult decât eșecurile în sine. Cu alte cuvinte, ezitarea excesivă este un **killer** al creșterii profesionale, deoarece blochează învățarea prin experimentare.
+ 
 -  **Lipsa de încredere în sine și sindromul impostorului** – Juniorii știu că au cunoștințe limitate, comparativ cu colegii mai experimentați, așa că pot simți că **orice idee a lor este probabil greșită**. Sindromul impostorului îi face să creadă că nu merită rolul obținut și că, dacă își exprimă propriile soluții, vor fi „demascați” ca necompetenti. Prin urmare, preferă să tacă și să urmeze indicațiile altora, considerând că ideile lor nu au valoare. Această **încredere de sine scăzută** îi împiedică să gândească liber și să propună abordări noi.
-
-  
 
 -  **Cultura organizațională rigidă** – Mediul de lucru are un impact major. În unele companii, din păcate, vocea juniorilor nu este încurajată: deciziile vin doar de sus în jos, iar greșelile sunt aspru criticate. Dacă organizația promovează implicit mesajul „ești aici doar ca să execuți, nu ca să întrebi”, juniorul va adopta o **mentalitate de execuție pasivă**. De teama consecințelor sau a judecății, el va considera că inițiativa personală nu este dorită. Chiar și cu un mentor bine intenționat, cultura generală poate descuraja autonomia – de exemplu, dacă vede că alți colegi juniori sunt marginalizați când încearcă să își impună ideile, va evita să facă la fel.
 
-  
-
 -  **Experiență anterioară limitată (doar teorie)** – Unii juniori pur și simplu nu știu *cum* să abordeze probleme deschis, deoarece nu au mai fost puși în această situație. Dacă în facultate sau în cursuri au rezolvat doar exerciții ghidate, *de manual*, acum se confruntă cu proiecte reale și complexe pentru care nu există un algoritm prestabilit. Fără un cadru familiar, reacția lor este să ceară îndrumare constantă. Practic, **nu au dezvoltat “mușchiul” gândirii independente**, pentru că anterior cineva (profesor, tutor, documentație pas-cu-pas) le-a spus mereu ce trebuie făcut. Acest bagaj academic le poate induce și o falsă idee că există mereu o singură soluție corectă pe care ei trebuie s-o afle de la un expert, în loc să exploreze mai multe variante.
-
-  
 
 -  **Mentoratul prost implementat** – Paradoxal, uneori chiar modul în care se face mentoringul poate menține juniorul în zona de confort. Dacă mentorul *micro-gestionează* fiecare pas, oferă imediat soluția la orice problemă și nu lasă loc de experimentare, juniorul nu are ocazia să gândească pe cont propriu. Un mentor care oferă **prea mult “pe tavă”** riscă să transforme mentee-ul într-un executant dependent. Intențiile pot fi bune (vrea să prevină eșecurile sau să livreze proiectul la timp), dar efectul este că juniorul nu își dezvoltă autonomia. Mentoratul eficient trebuie să ghideze, nu să controleze fiecare acțiune – altfel, inițiativa personală a juniorului este sufocată înainte să apară.
 
