@@ -41,6 +41,7 @@ Există mai multe motive posibile care explică **de ce un junior rămâne pasiv
 
   
 
+
 -  **Frica de greșeli și de eșec** – Mulți juniori trăiesc cu teama constantă de a nu strica ceva sau de a nu dezamăgi așteptările. Din dorința de a evita greșelile, aleg să nu riște deloc, așteptând mereu confirmare de la un senior. Această **aversiune față de risc** poate părea prudentă, dar în exces devine paralizantă. Paradoxal, frica de eșec poate dăuna progresului mai mult decât eșecurile în sine – “teama de eșec ne distruge visele mult mai des decât o fac lucrurile imperfecte” ([Junior Developers Focus on Wrong Things, And It Hurts Their Growth | SquarePlanet](https://hype4.academy/articles/coding/junior-developers-focus-on-wrong-things-and-it-hurts-their-growth#:~:text=before%20you%27re%20ready,let%20others%20worry%20about%20perfection)). Cu alte cuvinte, ezitarea excesivă este un **killer** al creșterii profesionale, deoarece blochează învățarea prin experimentare.
 
   
