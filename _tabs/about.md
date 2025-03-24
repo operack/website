@@ -1,7 +1,6 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-<<<<<<< HEAD
 order: 2
 ---
 
@@ -93,10 +92,3 @@ I need a legend sir:
 	<summary>This is not a CV</summary>
 	It is not.
 </details>
-=======
-order: 4
----
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
->>>>>>> v7.2.4
